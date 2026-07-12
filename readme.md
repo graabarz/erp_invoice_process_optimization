@@ -13,6 +13,8 @@ Po przeprowadzonym wywiadzie największym wąskim gardłem okazał się być dzi
 
 ### Stworzenie datasetu do przyszłej analizy poprawionego procesu TO BE 
 Na potrzeby projektu stworzyłem skrypt w pythonie [generate_dataset.py](scripts/generate_dataset.py) generujący dane do poniższego datasetu
+
+
 ![Dataset](images/dataset.jpg)
 
 ### Stworzenie bazy danych na podstawie datasetu
@@ -26,6 +28,6 @@ Na podstawie wygenerowanych danych stworzyłem bazę danych w **MS SQL** i za po
 ![Dashobard_3](images/dashboard_3.png)
 
 ### Analiza dashboardów - wnioski i dalsze propozycje 
-Po analizie dashboardów kolejnym wąskim gardłem okazał się być brak dokumentów PZ i rozbieżności cenowe na zamówieniach i fakturach. 
-**Rozwiązanie braku dok umentów PZ** - wyposażenie magazynierów w skanery - po zczytaniu dokumentu WZ, system automatycznie generuje dokument PZ w bazie
+Po analizie dashboardów kolejnym wąskim gardłem okazał się być brak dokumentów PZ i rozbieżności cenowe na zamówieniach i fakturach.  
+**Rozwiązanie braku dok umentów PZ** - wyposażenie magazynierów w skanery - po zczytaniu dokumentu WZ, system automatycznie generuje dokument PZ w bazie  
 **Rozwiązanie rozbieżności cenowych**  - konieczność ponownego sprawdzenia szblonów do zamówień w systemie ERP, istnieje możliwość, że dostawcy gdzie najczęściej pojawiają się rozbieżności najliczają rabat powyżej konkretnej ilośći zamówionych sztuk danego produktu
