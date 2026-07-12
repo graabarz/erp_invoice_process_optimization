@@ -28,6 +28,10 @@ Na podstawie wygenerowanych danych stworzyłem bazę danych w **MS SQL** i za po
 ![Dashobard_3](images/dashboard_3.png)
 
 ### Analiza dashboardów - wnioski i dalsze propozycje 
-Po analizie dashboardów kolejnym wąskim gardłem okazał się być brak dokumentów PZ i rozbieżności cenowe na zamówieniach i fakturach.  
-**Rozwiązanie braku dok umentów PZ** - wyposażenie magazynierów w skanery - po zczytaniu dokumentu WZ, system automatycznie generuje dokument PZ w bazie  
+Po analizie dashboardów kolejnym wąskim gardłem okazał się być brak dokumentów PZ i rozbieżności cenowe na zamówieniach i fakturach. 
+
+
+**Rozwiązanie braku dok umentów PZ** - wyposażenie magazynierów w skanery - po sczytaniu dokumentu WZ, system automatycznie generuje dokument PZ w bazie  
+
+
 **Rozwiązanie rozbieżności cenowych**  - konieczność ponownego sprawdzenia szblonów do zamówień w systemie ERP, istnieje możliwość, że dostawcy gdzie najczęściej pojawiają się rozbieżności najliczają rabat powyżej konkretnej ilośći zamówionych sztuk danego produktu
