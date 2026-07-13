@@ -1,4 +1,4 @@
-# Problem biznesowy: Opóźnienia w księgowaniu faktur zakupowych
+# Case study: Opóźnienia w księgowaniu faktur zakupowych
 
 ### Odtworzenie istniejącego procesu AS IS
 Projekt rozpocząłem od odtworzenia procesu AS IS przebiegu faktury - poniżej proces w notacji **BPMN 2.0**
